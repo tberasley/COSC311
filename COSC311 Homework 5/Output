@@ -1,0 +1,4271 @@
+********* Tick 0 *********
+Queue 1
+Empty
+
+Queue 2
+Empty
+********* Tick 1 *********
+Queue 1
+Empty
+
+Queue 2
+Empty
+********* Tick 2 *********
+Tick 2: Server 2 starts service on customer 1
+Customer 1 waited 0 ticks to be serviced
+Queue 1
+Empty
+
+Queue 2
+Empty
+********* Tick 3 *********
+Queue 1
+Empty
+
+Queue 2
+Empty
+********* Tick 4 *********
+Tick 4: Server 2 ends service on customer 1
+Tick 4: Server 1 starts service on customer 2
+Customer 2 waited 0 ticks to be serviced
+Queue 1
+Empty
+
+Queue 2
+Empty
+********* Tick 5 *********
+Queue 1
+Empty
+
+Queue 2
+Empty
+********* Tick 6 *********
+Queue 1
+Empty
+
+Queue 2
+Empty
+********* Tick 7 *********
+Queue 1
+Empty
+
+Queue 2
+Empty
+********* Tick 8 *********
+Queue 1
+Empty
+
+Queue 2
+Empty
+********* Tick 9 *********
+Tick 9: Server 1 ends service on customer 2
+Queue 1
+Empty
+
+Queue 2
+Empty
+********* Tick 10 *********
+Tick 10: Server 1 starts service on customer 3
+Customer 3 waited 0 ticks to be serviced
+Tick 10: Server 2 starts service on customer 4
+Customer 4 waited 0 ticks to be serviced
+Queue 1
+Empty
+
+Queue 2
+Empty
+********* Tick 11 *********
+Queue 1
+Customer: 5
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 0 ticks. 
+
+Queue 2
+Empty
+********* Tick 12 *********
+Tick 12: Server 1 ends service on customer 3
+Tick 12: Server 1 starts service on customer 5
+Customer 5 waited 1 ticks to be serviced
+Queue 1
+Empty
+
+Queue 2
+Empty
+********* Tick 13 *********
+Queue 1
+Empty
+
+Queue 2
+Empty
+********* Tick 14 *********
+Tick 14: Server 1 ends service on customer 5
+Tick 14: Server 1 starts service on customer 6
+Customer 6 waited 0 ticks to be serviced
+Queue 1
+Empty
+
+Queue 2
+Empty
+********* Tick 15 *********
+Tick 15: Server 2 ends service on customer 4
+Queue 1
+Empty
+
+Queue 2
+Empty
+********* Tick 16 *********
+Tick 16: Server 2 starts service on customer 8
+Customer 8 waited 0 ticks to be serviced
+Queue 1
+Customer: 7
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 0 ticks. 
+
+Queue 2
+Empty
+********* Tick 17 *********
+Queue 1
+Customer: 7
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 1 ticks. 
+
+Queue 2
+Empty
+********* Tick 18 *********
+Queue 1
+Customer: 7
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 2 ticks. 
+
+Queue 2
+Empty
+********* Tick 19 *********
+Tick 19: Server 2 ends service on customer 8
+Queue 1
+Customer: 7
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 3 ticks. 
+
+Queue 2
+Empty
+********* Tick 20 *********
+Tick 20: Server 1 ends service on customer 6
+Tick 20: Server 1 starts service on customer 7
+Customer 7 waited 4 ticks to be serviced
+Queue 1
+Empty
+
+Queue 2
+Empty
+********* Tick 21 *********
+Queue 1
+Empty
+
+Queue 2
+Empty
+********* Tick 22 *********
+Tick 22: Server 1 ends service on customer 7
+Tick 22: Server 1 starts service on customer 9
+Customer 9 waited 0 ticks to be serviced
+Queue 1
+Empty
+
+Queue 2
+Empty
+********* Tick 23 *********
+Queue 1
+Empty
+
+Queue 2
+Empty
+********* Tick 24 *********
+Tick 24: Server 1 ends service on customer 9
+Customer 10 switched queues
+Customer 10 would have waited 0 ticks to be serviced if they had not switched queues
+Tick 24: Server 2 starts service on customer 10
+Customer 10 waited 0 ticks to be serviced
+Queue 1
+Empty
+
+Queue 2
+Customer: 11
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 0 ticks. 
+********* Tick 25 *********
+Queue 1
+Empty
+
+Queue 2
+Customer: 11
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 1 ticks. 
+Customer: 12
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 0 ticks. 
+********* Tick 26 *********
+Queue 1
+Empty
+
+Queue 2
+Customer: 11
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 2 ticks. 
+Customer: 12
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 1 ticks. 
+********* Tick 27 *********
+Queue 1
+Empty
+
+Queue 2
+Customer: 11
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 3 ticks. 
+Customer: 12
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 2 ticks. 
+********* Tick 28 *********
+Tick 28: Server 2 ends service on customer 10
+Tick 28: Server 1 starts service on customer 13
+Customer 13 waited 0 ticks to be serviced
+Tick 28: Server 2 starts service on customer 11
+Customer 11 waited 4 ticks to be serviced
+Queue 1
+Empty
+
+Queue 2
+Customer: 12
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 3 ticks. 
+********* Tick 29 *********
+Queue 1
+Empty
+
+Queue 2
+Customer: 12
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 4 ticks. 
+Customer: 14
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 0 ticks. 
+********* Tick 30 *********
+Tick 30: Server 2 ends service on customer 11
+Tick 30: Server 2 starts service on customer 12
+Customer 12 waited 5 ticks to be serviced
+Queue 1
+Empty
+
+Queue 2
+Customer: 14
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 1 ticks. 
+********* Tick 31 *********
+Queue 1
+Empty
+
+Queue 2
+Customer: 14
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 2 ticks. 
+********* Tick 32 *********
+Queue 1
+Customer: 15
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 0 ticks. 
+Customer: 16
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 0 ticks. 
+
+Queue 2
+Customer: 14
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 3 ticks. 
+********* Tick 33 *********
+Tick 33: Server 1 ends service on customer 13
+Tick 33: Server 1 starts service on customer 15
+Customer 15 waited 1 ticks to be serviced
+Queue 1
+Customer: 16
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 1 ticks. 
+
+Queue 2
+Customer: 14
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 4 ticks. 
+Customer: 17
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 0 ticks. 
+********* Tick 34 *********
+Tick 34: Server 2 ends service on customer 12
+Tick 34: Server 2 starts service on customer 14
+Customer 14 waited 5 ticks to be serviced
+Queue 1
+Customer: 16
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 2 ticks. 
+
+Queue 2
+Customer: 17
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 1 ticks. 
+********* Tick 35 *********
+Queue 1
+Customer: 16
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 3 ticks. 
+
+Queue 2
+Customer: 17
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 2 ticks. 
+********* Tick 36 *********
+Tick 36: Server 1 ends service on customer 15
+Tick 36: Server 1 starts service on customer 16
+Customer 16 waited 4 ticks to be serviced
+Queue 1
+Empty
+
+Queue 2
+Customer: 17
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 3 ticks. 
+Customer: 18
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 0 ticks. 
+********* Tick 37 *********
+Queue 1
+Empty
+
+Queue 2
+Customer: 17
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 4 ticks. 
+Customer: 18
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 1 ticks. 
+********* Tick 38 *********
+Queue 1
+Empty
+
+Queue 2
+Customer: 17
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 5 ticks. 
+Customer: 18
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 2 ticks. 
+********* Tick 39 *********
+Tick 39: Server 2 ends service on customer 14
+Tick 39: Server 2 starts service on customer 17
+Customer 17 waited 6 ticks to be serviced
+Queue 1
+Empty
+
+Queue 2
+Customer: 18
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 3 ticks. 
+Customer: 19
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 0 ticks. 
+********* Tick 40 *********
+Queue 1
+Empty
+
+Queue 2
+Customer: 18
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 4 ticks. 
+Customer: 19
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 1 ticks. 
+********* Tick 41 *********
+Tick 41: Server 1 ends service on customer 16
+Queue 1
+Empty
+
+Queue 2
+Customer: 18
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 5 ticks. 
+Customer: 19
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 2 ticks. 
+********* Tick 42 *********
+Queue 1
+Empty
+
+Queue 2
+Customer: 18
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 6 ticks. 
+Customer: 19
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 3 ticks. 
+********* Tick 43 *********
+Tick 43: Server 2 ends service on customer 17
+Tick 43: Server 2 starts service on customer 18
+Customer 18 waited 7 ticks to be serviced
+Queue 1
+Empty
+
+Queue 2
+Customer: 19
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 4 ticks. 
+********* Tick 44 *********
+Queue 1
+Empty
+
+Queue 2
+Customer: 19
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 5 ticks. 
+********* Tick 45 *********
+Tick 45: Server 2 ends service on customer 18
+Tick 45: Server 2 starts service on customer 19
+Customer 19 waited 6 ticks to be serviced
+Queue 1
+Empty
+
+Queue 2
+Customer: 20
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 0 ticks. 
+********* Tick 46 *********
+Queue 1
+Empty
+
+Queue 2
+Customer: 20
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 1 ticks. 
+********* Tick 47 *********
+Queue 1
+Empty
+
+Queue 2
+Customer: 20
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 2 ticks. 
+Customer: 21
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 0 ticks. 
+********* Tick 48 *********
+Tick 48: Server 1 starts service on customer 22
+Customer 22 waited 0 ticks to be serviced
+Queue 1
+Empty
+
+Queue 2
+Customer: 20
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 3 ticks. 
+Customer: 21
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 1 ticks. 
+********* Tick 49 *********
+Queue 1
+Customer: 23
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 0 ticks. 
+
+Queue 2
+Customer: 20
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 4 ticks. 
+Customer: 21
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 2 ticks. 
+********* Tick 50 *********
+Tick 50: Server 1 ends service on customer 22
+Tick 50: Server 1 starts service on customer 23
+Customer 23 waited 1 ticks to be serviced
+Queue 1
+Empty
+
+Queue 2
+Customer: 20
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 5 ticks. 
+Customer: 21
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 3 ticks. 
+Customer: 24
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 0 ticks. 
+********* Tick 51 *********
+Tick 51: Server 2 ends service on customer 19
+Tick 51: Server 2 starts service on customer 20
+Customer 20 waited 6 ticks to be serviced
+Queue 1
+Empty
+
+Queue 2
+Customer: 21
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 4 ticks. 
+Customer: 24
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 1 ticks. 
+Customer: 25
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 0 ticks. 
+********* Tick 52 *********
+Queue 1
+Empty
+
+Queue 2
+Customer: 21
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 5 ticks. 
+Customer: 24
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 2 ticks. 
+Customer: 25
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 1 ticks. 
+Customer: 26
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 0 ticks. 
+********* Tick 53 *********
+Queue 1
+Empty
+
+Queue 2
+Customer: 21
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 6 ticks. 
+Customer: 24
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 3 ticks. 
+Customer: 25
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 2 ticks. 
+Customer: 26
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 1 ticks. 
+********* Tick 54 *********
+Customer 27 switched queues
+Queue 1
+Customer: 27
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 0 ticks. 
+
+Queue 2
+Customer: 21
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 7 ticks. 
+Customer: 24
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 4 ticks. 
+Customer: 25
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 3 ticks. 
+Customer: 26
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 2 ticks. 
+Customer: 27
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 0 ticks. 
+********* Tick 55 *********
+Tick 55: Server 1 ends service on customer 23
+Tick 55: Server 2 ends service on customer 20
+Customer 27 would have waited 2 ticks to be serviced if they had not switched queues
+Tick 55: Server 2 starts service on customer 21
+Customer 21 waited 8 ticks to be serviced
+Queue 1
+Empty
+
+Queue 2
+Customer: 24
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 5 ticks. 
+Customer: 25
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 4 ticks. 
+Customer: 26
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 3 ticks. 
+Customer: 27
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 2 ticks. 
+********* Tick 56 *********
+Customer 28 switched queues
+Customer 28 would have waited 0 ticks to be serviced if they had not switched queues
+Queue 1
+Empty
+
+Queue 2
+Customer: 24
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 6 ticks. 
+Customer: 25
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 5 ticks. 
+Customer: 26
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 4 ticks. 
+Customer: 27
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 3 ticks. 
+Customer: 28
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 0 ticks. 
+********* Tick 57 *********
+Queue 1
+Empty
+
+Queue 2
+Customer: 24
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 7 ticks. 
+Customer: 25
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 6 ticks. 
+Customer: 26
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 5 ticks. 
+Customer: 27
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 4 ticks. 
+Customer: 28
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 1 ticks. 
+********* Tick 58 *********
+Queue 1
+Empty
+
+Queue 2
+Customer: 24
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 8 ticks. 
+Customer: 25
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 7 ticks. 
+Customer: 26
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 6 ticks. 
+Customer: 27
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 5 ticks. 
+Customer: 28
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 2 ticks. 
+********* Tick 59 *********
+Queue 1
+Empty
+
+Queue 2
+Customer: 24
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 9 ticks. 
+Customer: 25
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 8 ticks. 
+Customer: 26
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 7 ticks. 
+Customer: 27
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 6 ticks. 
+Customer: 28
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 3 ticks. 
+********* Tick 60 *********
+Tick 60: Server 2 ends service on customer 21
+Tick 60: Server 2 starts service on customer 24
+Customer 24 waited 10 ticks to be serviced
+Queue 1
+Empty
+
+Queue 2
+Customer: 25
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 9 ticks. 
+Customer: 26
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 8 ticks. 
+Customer: 27
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 7 ticks. 
+Customer: 28
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 4 ticks. 
+********* Tick 61 *********
+Queue 1
+Empty
+
+Queue 2
+Customer: 25
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 10 ticks. 
+Customer: 26
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 9 ticks. 
+Customer: 27
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 8 ticks. 
+Customer: 28
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 5 ticks. 
+Customer: 29
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 0 ticks. 
+********* Tick 62 *********
+Queue 1
+Empty
+
+Queue 2
+Customer: 25
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 11 ticks. 
+Customer: 26
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 10 ticks. 
+Customer: 27
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 9 ticks. 
+Customer: 28
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 6 ticks. 
+Customer: 29
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 1 ticks. 
+********* Tick 63 *********
+Tick 63: Server 2 ends service on customer 24
+Tick 63: Server 2 starts service on customer 25
+Customer 25 waited 12 ticks to be serviced
+Queue 1
+Empty
+
+Queue 2
+Customer: 26
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 11 ticks. 
+Customer: 27
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 10 ticks. 
+Customer: 28
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 7 ticks. 
+Customer: 29
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 2 ticks. 
+********* Tick 64 *********
+Customer 30 switched queues
+Customer 30 would have waited 0 ticks to be serviced if they had not switched queues
+Queue 1
+Empty
+
+Queue 2
+Customer: 26
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 12 ticks. 
+Customer: 27
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 11 ticks. 
+Customer: 28
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 8 ticks. 
+Customer: 29
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 3 ticks. 
+Customer: 30
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 0 ticks. 
+********* Tick 65 *********
+Queue 1
+Empty
+
+Queue 2
+Customer: 26
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 13 ticks. 
+Customer: 27
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 12 ticks. 
+Customer: 28
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 9 ticks. 
+Customer: 29
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 4 ticks. 
+Customer: 30
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 1 ticks. 
+********* Tick 66 *********
+Customer 31 switched queues
+Customer 31 would have waited 0 ticks to be serviced if they had not switched queues
+Queue 1
+Empty
+
+Queue 2
+Customer: 26
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 14 ticks. 
+Customer: 27
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 13 ticks. 
+Customer: 28
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 10 ticks. 
+Customer: 29
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 5 ticks. 
+Customer: 30
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 2 ticks. 
+Customer: 31
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 0 ticks. 
+Customer: 32
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 0 ticks. 
+********* Tick 67 *********
+Tick 67: Server 2 ends service on customer 25
+Tick 67: Server 2 starts service on customer 26
+Customer 26 waited 15 ticks to be serviced
+Queue 1
+Empty
+
+Queue 2
+Customer: 27
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 14 ticks. 
+Customer: 28
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 11 ticks. 
+Customer: 29
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 6 ticks. 
+Customer: 30
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 3 ticks. 
+Customer: 31
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 1 ticks. 
+Customer: 32
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 1 ticks. 
+********* Tick 68 *********
+Queue 1
+Empty
+
+Queue 2
+Customer: 27
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 15 ticks. 
+Customer: 28
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 12 ticks. 
+Customer: 29
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 7 ticks. 
+Customer: 30
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 4 ticks. 
+Customer: 31
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 2 ticks. 
+Customer: 32
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 2 ticks. 
+********* Tick 69 *********
+Queue 1
+Empty
+
+Queue 2
+Customer: 27
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 16 ticks. 
+Customer: 28
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 13 ticks. 
+Customer: 29
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 8 ticks. 
+Customer: 30
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 5 ticks. 
+Customer: 31
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 3 ticks. 
+Customer: 32
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 3 ticks. 
+Customer: 33
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 0 ticks. 
+Customer: 34
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 0 ticks. 
+********* Tick 70 *********
+Queue 1
+Empty
+
+Queue 2
+Customer: 27
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 17 ticks. 
+Customer: 28
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 14 ticks. 
+Customer: 29
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 9 ticks. 
+Customer: 30
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 6 ticks. 
+Customer: 31
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 4 ticks. 
+Customer: 32
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 4 ticks. 
+Customer: 33
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 1 ticks. 
+Customer: 34
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 1 ticks. 
+Customer: 35
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 0 ticks. 
+********* Tick 71 *********
+Queue 1
+Empty
+
+Queue 2
+Customer: 27
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 18 ticks. 
+Customer: 28
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 15 ticks. 
+Customer: 29
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 10 ticks. 
+Customer: 30
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 7 ticks. 
+Customer: 31
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 5 ticks. 
+Customer: 32
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 5 ticks. 
+Customer: 33
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 2 ticks. 
+Customer: 34
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 2 ticks. 
+Customer: 35
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 1 ticks. 
+********* Tick 72 *********
+Tick 72: Server 2 ends service on customer 26
+Tick 72: Server 2 starts service on customer 27
+Customer 27 waited 19 ticks to be serviced
+Queue 1
+Empty
+
+Queue 2
+Customer: 28
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 16 ticks. 
+Customer: 29
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 11 ticks. 
+Customer: 30
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 8 ticks. 
+Customer: 31
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 6 ticks. 
+Customer: 32
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 6 ticks. 
+Customer: 33
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 3 ticks. 
+Customer: 34
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 3 ticks. 
+Customer: 35
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 2 ticks. 
+********* Tick 73 *********
+Queue 1
+Empty
+
+Queue 2
+Customer: 28
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 17 ticks. 
+Customer: 29
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 12 ticks. 
+Customer: 30
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 9 ticks. 
+Customer: 31
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 7 ticks. 
+Customer: 32
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 7 ticks. 
+Customer: 33
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 4 ticks. 
+Customer: 34
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 4 ticks. 
+Customer: 35
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 3 ticks. 
+Customer: 36
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 0 ticks. 
+********* Tick 74 *********
+Customer 37 switched queues
+Customer 37 would have waited 0 ticks to be serviced if they had not switched queues
+Queue 1
+Empty
+
+Queue 2
+Customer: 28
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 18 ticks. 
+Customer: 29
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 13 ticks. 
+Customer: 30
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 10 ticks. 
+Customer: 31
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 8 ticks. 
+Customer: 32
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 8 ticks. 
+Customer: 33
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 5 ticks. 
+Customer: 34
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 5 ticks. 
+Customer: 35
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 4 ticks. 
+Customer: 36
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 1 ticks. 
+Customer: 37
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 0 ticks. 
+********* Tick 75 *********
+Queue 1
+Empty
+
+Queue 2
+Customer: 28
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 19 ticks. 
+Customer: 29
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 14 ticks. 
+Customer: 30
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 11 ticks. 
+Customer: 31
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 9 ticks. 
+Customer: 32
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 9 ticks. 
+Customer: 33
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 6 ticks. 
+Customer: 34
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 6 ticks. 
+Customer: 35
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 5 ticks. 
+Customer: 36
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 2 ticks. 
+Customer: 37
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 1 ticks. 
+********* Tick 76 *********
+Tick 76: Server 2 ends service on customer 27
+Customer 38 switched queues
+Customer 38 would have waited 0 ticks to be serviced if they had not switched queues
+Tick 76: Server 2 starts service on customer 28
+Customer 28 waited 20 ticks to be serviced
+Queue 1
+Empty
+
+Queue 2
+Customer: 29
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 15 ticks. 
+Customer: 30
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 12 ticks. 
+Customer: 31
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 10 ticks. 
+Customer: 32
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 10 ticks. 
+Customer: 33
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 7 ticks. 
+Customer: 34
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 7 ticks. 
+Customer: 35
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 6 ticks. 
+Customer: 36
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 3 ticks. 
+Customer: 37
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 2 ticks. 
+Customer: 38
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 0 ticks. 
+********* Tick 77 *********
+Customer 39 switched queues
+Customer 39 would have waited 0 ticks to be serviced if they had not switched queues
+Queue 1
+Empty
+
+Queue 2
+Customer: 29
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 16 ticks. 
+Customer: 30
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 13 ticks. 
+Customer: 31
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 11 ticks. 
+Customer: 32
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 11 ticks. 
+Customer: 33
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 8 ticks. 
+Customer: 34
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 8 ticks. 
+Customer: 35
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 7 ticks. 
+Customer: 36
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 4 ticks. 
+Customer: 37
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 3 ticks. 
+Customer: 38
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 1 ticks. 
+Customer: 39
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 0 ticks. 
+Customer: 40
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 0 ticks. 
+********* Tick 78 *********
+Customer 41 switched queues
+Customer 41 would have waited 0 ticks to be serviced if they had not switched queues
+Queue 1
+Empty
+
+Queue 2
+Customer: 29
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 17 ticks. 
+Customer: 30
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 14 ticks. 
+Customer: 31
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 12 ticks. 
+Customer: 32
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 12 ticks. 
+Customer: 33
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 9 ticks. 
+Customer: 34
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 9 ticks. 
+Customer: 35
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 8 ticks. 
+Customer: 36
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 5 ticks. 
+Customer: 37
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 4 ticks. 
+Customer: 38
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 2 ticks. 
+Customer: 39
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 1 ticks. 
+Customer: 40
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 1 ticks. 
+Customer: 41
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 0 ticks. 
+********* Tick 79 *********
+Queue 1
+Empty
+
+Queue 2
+Customer: 29
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 18 ticks. 
+Customer: 30
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 15 ticks. 
+Customer: 31
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 13 ticks. 
+Customer: 32
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 13 ticks. 
+Customer: 33
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 10 ticks. 
+Customer: 34
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 10 ticks. 
+Customer: 35
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 9 ticks. 
+Customer: 36
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 6 ticks. 
+Customer: 37
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 5 ticks. 
+Customer: 38
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 3 ticks. 
+Customer: 39
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 2 ticks. 
+Customer: 40
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 2 ticks. 
+Customer: 41
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 1 ticks. 
+********* Tick 80 *********
+Queue 1
+Empty
+
+Queue 2
+Customer: 29
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 19 ticks. 
+Customer: 30
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 16 ticks. 
+Customer: 31
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 14 ticks. 
+Customer: 32
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 14 ticks. 
+Customer: 33
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 11 ticks. 
+Customer: 34
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 11 ticks. 
+Customer: 35
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 10 ticks. 
+Customer: 36
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 7 ticks. 
+Customer: 37
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 6 ticks. 
+Customer: 38
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 4 ticks. 
+Customer: 39
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 3 ticks. 
+Customer: 40
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 3 ticks. 
+Customer: 41
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 2 ticks. 
+********* Tick 81 *********
+Customer 42 switched queues
+Customer 42 would have waited 0 ticks to be serviced if they had not switched queues
+Queue 1
+Empty
+
+Queue 2
+Customer: 29
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 20 ticks. 
+Customer: 30
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 17 ticks. 
+Customer: 31
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 15 ticks. 
+Customer: 32
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 15 ticks. 
+Customer: 33
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 12 ticks. 
+Customer: 34
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 12 ticks. 
+Customer: 35
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 11 ticks. 
+Customer: 36
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 8 ticks. 
+Customer: 37
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 7 ticks. 
+Customer: 38
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 5 ticks. 
+Customer: 39
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 4 ticks. 
+Customer: 40
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 4 ticks. 
+Customer: 41
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 3 ticks. 
+Customer: 42
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 0 ticks. 
+********* Tick 82 *********
+Tick 82: Server 2 ends service on customer 28
+Tick 82: Server 2 starts service on customer 29
+Customer 29 waited 21 ticks to be serviced
+Queue 1
+Empty
+
+Queue 2
+Customer: 30
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 18 ticks. 
+Customer: 31
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 16 ticks. 
+Customer: 32
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 16 ticks. 
+Customer: 33
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 13 ticks. 
+Customer: 34
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 13 ticks. 
+Customer: 35
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 12 ticks. 
+Customer: 36
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 9 ticks. 
+Customer: 37
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 8 ticks. 
+Customer: 38
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 6 ticks. 
+Customer: 39
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 5 ticks. 
+Customer: 40
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 5 ticks. 
+Customer: 41
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 4 ticks. 
+Customer: 42
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 1 ticks. 
+********* Tick 83 *********
+Queue 1
+Empty
+
+Queue 2
+Customer: 30
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 19 ticks. 
+Customer: 31
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 17 ticks. 
+Customer: 32
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 17 ticks. 
+Customer: 33
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 14 ticks. 
+Customer: 34
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 14 ticks. 
+Customer: 35
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 13 ticks. 
+Customer: 36
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 10 ticks. 
+Customer: 37
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 9 ticks. 
+Customer: 38
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 7 ticks. 
+Customer: 39
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 6 ticks. 
+Customer: 40
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 6 ticks. 
+Customer: 41
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 5 ticks. 
+Customer: 42
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 2 ticks. 
+********* Tick 84 *********
+Tick 84: Server 2 ends service on customer 29
+Tick 84: Server 2 starts service on customer 30
+Customer 30 waited 20 ticks to be serviced
+Queue 1
+Empty
+
+Queue 2
+Customer: 31
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 18 ticks. 
+Customer: 32
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 18 ticks. 
+Customer: 33
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 15 ticks. 
+Customer: 34
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 15 ticks. 
+Customer: 35
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 14 ticks. 
+Customer: 36
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 11 ticks. 
+Customer: 37
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 10 ticks. 
+Customer: 38
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 8 ticks. 
+Customer: 39
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 7 ticks. 
+Customer: 40
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 7 ticks. 
+Customer: 41
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 6 ticks. 
+Customer: 42
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 3 ticks. 
+Customer: 43
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 0 ticks. 
+********* Tick 85 *********
+Queue 1
+Empty
+
+Queue 2
+Customer: 31
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 19 ticks. 
+Customer: 32
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 19 ticks. 
+Customer: 33
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 16 ticks. 
+Customer: 34
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 16 ticks. 
+Customer: 35
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 15 ticks. 
+Customer: 36
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 12 ticks. 
+Customer: 37
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 11 ticks. 
+Customer: 38
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 9 ticks. 
+Customer: 39
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 8 ticks. 
+Customer: 40
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 8 ticks. 
+Customer: 41
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 7 ticks. 
+Customer: 42
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 4 ticks. 
+Customer: 43
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 1 ticks. 
+Customer: 44
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 0 ticks. 
+********* Tick 86 *********
+Queue 1
+Empty
+
+Queue 2
+Customer: 31
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 20 ticks. 
+Customer: 32
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 20 ticks. 
+Customer: 33
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 17 ticks. 
+Customer: 34
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 17 ticks. 
+Customer: 35
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 16 ticks. 
+Customer: 36
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 13 ticks. 
+Customer: 37
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 12 ticks. 
+Customer: 38
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 10 ticks. 
+Customer: 39
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 9 ticks. 
+Customer: 40
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 9 ticks. 
+Customer: 41
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 8 ticks. 
+Customer: 42
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 5 ticks. 
+Customer: 43
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 2 ticks. 
+Customer: 44
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 1 ticks. 
+********* Tick 87 *********
+Queue 1
+Empty
+
+Queue 2
+Customer: 31
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 21 ticks. 
+Customer: 32
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 21 ticks. 
+Customer: 33
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 18 ticks. 
+Customer: 34
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 18 ticks. 
+Customer: 35
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 17 ticks. 
+Customer: 36
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 14 ticks. 
+Customer: 37
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 13 ticks. 
+Customer: 38
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 11 ticks. 
+Customer: 39
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 10 ticks. 
+Customer: 40
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 10 ticks. 
+Customer: 41
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 9 ticks. 
+Customer: 42
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 6 ticks. 
+Customer: 43
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 3 ticks. 
+Customer: 44
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 2 ticks. 
+********* Tick 88 *********
+Queue 1
+Empty
+
+Queue 2
+Customer: 31
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 22 ticks. 
+Customer: 32
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 22 ticks. 
+Customer: 33
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 19 ticks. 
+Customer: 34
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 19 ticks. 
+Customer: 35
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 18 ticks. 
+Customer: 36
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 15 ticks. 
+Customer: 37
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 14 ticks. 
+Customer: 38
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 12 ticks. 
+Customer: 39
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 11 ticks. 
+Customer: 40
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 11 ticks. 
+Customer: 41
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 10 ticks. 
+Customer: 42
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 7 ticks. 
+Customer: 43
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 4 ticks. 
+Customer: 44
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 3 ticks. 
+Customer: 45
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 0 ticks. 
+********* Tick 89 *********
+Tick 89: Server 2 ends service on customer 30
+Tick 89: Server 2 starts service on customer 31
+Customer 31 waited 23 ticks to be serviced
+Queue 1
+Empty
+
+Queue 2
+Customer: 32
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 23 ticks. 
+Customer: 33
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 20 ticks. 
+Customer: 34
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 20 ticks. 
+Customer: 35
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 19 ticks. 
+Customer: 36
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 16 ticks. 
+Customer: 37
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 15 ticks. 
+Customer: 38
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 13 ticks. 
+Customer: 39
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 12 ticks. 
+Customer: 40
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 12 ticks. 
+Customer: 41
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 11 ticks. 
+Customer: 42
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 8 ticks. 
+Customer: 43
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 5 ticks. 
+Customer: 44
+Starting Queue: 2********* Tick 0 *********
+Queue 1
+Empty
+
+Queue 2
+Empty
+********* Tick 1 *********
+Queue 1
+Empty
+
+Queue 2
+Empty
+********* Tick 2 *********
+Tick 2: Server 2 starts service on customer 1
+Customer 1 waited 0 ticks to be serviced
+Queue 1
+Empty
+
+Queue 2
+Empty
+********* Tick 3 *********
+Queue 1
+Empty
+
+Queue 2
+Empty
+********* Tick 4 *********
+Tick 4: Server 2 ends service on customer 1
+Tick 4: Server 1 starts service on customer 2
+Customer 2 waited 0 ticks to be serviced
+Queue 1
+Empty
+
+Queue 2
+Empty
+********* Tick 5 *********
+Queue 1
+Empty
+
+Queue 2
+Empty
+********* Tick 6 *********
+Queue 1
+Empty
+
+Queue 2
+Empty
+********* Tick 7 *********
+Queue 1
+Empty
+
+Queue 2
+Empty
+********* Tick 8 *********
+Queue 1
+Empty
+
+Queue 2
+Empty
+********* Tick 9 *********
+Tick 9: Server 1 ends service on customer 2
+Queue 1
+Empty
+
+Queue 2
+Empty
+********* Tick 10 *********
+Tick 10: Server 1 starts service on customer 3
+Customer 3 waited 0 ticks to be serviced
+Tick 10: Server 2 starts service on customer 4
+Customer 4 waited 0 ticks to be serviced
+Queue 1
+Empty
+
+Queue 2
+Empty
+********* Tick 11 *********
+Queue 1
+Customer: 5
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 0 ticks. 
+
+Queue 2
+Empty
+********* Tick 12 *********
+Tick 12: Server 1 ends service on customer 3
+Tick 12: Server 1 starts service on customer 5
+Customer 5 waited 1 ticks to be serviced
+Queue 1
+Empty
+
+Queue 2
+Empty
+********* Tick 13 *********
+Queue 1
+Empty
+
+Queue 2
+Empty
+********* Tick 14 *********
+Tick 14: Server 1 ends service on customer 5
+Tick 14: Server 1 starts service on customer 6
+Customer 6 waited 0 ticks to be serviced
+Queue 1
+Empty
+
+Queue 2
+Empty
+********* Tick 15 *********
+Tick 15: Server 2 ends service on customer 4
+Queue 1
+Empty
+
+Queue 2
+Empty
+********* Tick 16 *********
+Tick 16: Server 2 starts service on customer 8
+Customer 8 waited 0 ticks to be serviced
+Queue 1
+Customer: 7
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 0 ticks. 
+
+Queue 2
+Empty
+********* Tick 17 *********
+Queue 1
+Customer: 7
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 1 ticks. 
+
+Queue 2
+Empty
+********* Tick 18 *********
+Queue 1
+Customer: 7
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 2 ticks. 
+
+Queue 2
+Empty
+********* Tick 19 *********
+Tick 19: Server 2 ends service on customer 8
+Queue 1
+Customer: 7
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 3 ticks. 
+
+Queue 2
+Empty
+********* Tick 20 *********
+Tick 20: Server 1 ends service on customer 6
+Tick 20: Server 1 starts service on customer 7
+Customer 7 waited 4 ticks to be serviced
+Queue 1
+Empty
+
+Queue 2
+Empty
+********* Tick 21 *********
+Queue 1
+Empty
+
+Queue 2
+Empty
+********* Tick 22 *********
+Tick 22: Server 1 ends service on customer 7
+Tick 22: Server 1 starts service on customer 9
+Customer 9 waited 0 ticks to be serviced
+Queue 1
+Empty
+
+Queue 2
+Empty
+********* Tick 23 *********
+Queue 1
+Empty
+
+Queue 2
+Empty
+********* Tick 24 *********
+Tick 24: Server 1 ends service on customer 9
+Customer 10 switched queues
+Customer 10 would have waited 0 ticks to be serviced if they had not switched queues
+Tick 24: Server 2 starts service on customer 10
+Customer 10 waited 0 ticks to be serviced
+Queue 1
+Empty
+
+Queue 2
+Customer: 11
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 0 ticks. 
+********* Tick 25 *********
+Queue 1
+Empty
+
+Queue 2
+Customer: 11
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 1 ticks. 
+Customer: 12
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 0 ticks. 
+********* Tick 26 *********
+Queue 1
+Empty
+
+Queue 2
+Customer: 11
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 2 ticks. 
+Customer: 12
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 1 ticks. 
+********* Tick 27 *********
+Queue 1
+Empty
+
+Queue 2
+Customer: 11
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 3 ticks. 
+Customer: 12
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 2 ticks. 
+********* Tick 28 *********
+Tick 28: Server 2 ends service on customer 10
+Tick 28: Server 1 starts service on customer 13
+Customer 13 waited 0 ticks to be serviced
+Tick 28: Server 2 starts service on customer 11
+Customer 11 waited 4 ticks to be serviced
+Queue 1
+Empty
+
+Queue 2
+Customer: 12
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 3 ticks. 
+********* Tick 29 *********
+Queue 1
+Empty
+
+Queue 2
+Customer: 12
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 4 ticks. 
+Customer: 14
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 0 ticks. 
+********* Tick 30 *********
+Tick 30: Server 2 ends service on customer 11
+Tick 30: Server 2 starts service on customer 12
+Customer 12 waited 5 ticks to be serviced
+Queue 1
+Empty
+
+Queue 2
+Customer: 14
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 1 ticks. 
+********* Tick 31 *********
+Queue 1
+Empty
+
+Queue 2
+Customer: 14
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 2 ticks. 
+********* Tick 32 *********
+Queue 1
+Customer: 15
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 0 ticks. 
+Customer: 16
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 0 ticks. 
+
+Queue 2
+Customer: 14
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 3 ticks. 
+********* Tick 33 *********
+Tick 33: Server 1 ends service on customer 13
+Tick 33: Server 1 starts service on customer 15
+Customer 15 waited 1 ticks to be serviced
+Queue 1
+Customer: 16
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 1 ticks. 
+
+Queue 2
+Customer: 14
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 4 ticks. 
+Customer: 17
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 0 ticks. 
+********* Tick 34 *********
+Tick 34: Server 2 ends service on customer 12
+Tick 34: Server 2 starts service on customer 14
+Customer 14 waited 5 ticks to be serviced
+Queue 1
+Customer: 16
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 2 ticks. 
+
+Queue 2
+Customer: 17
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 1 ticks. 
+********* Tick 35 *********
+Queue 1
+Customer: 16
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 3 ticks. 
+
+Queue 2
+Customer: 17
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 2 ticks. 
+********* Tick 36 *********
+Tick 36: Server 1 ends service on customer 15
+Tick 36: Server 1 starts service on customer 16
+Customer 16 waited 4 ticks to be serviced
+Queue 1
+Empty
+
+Queue 2
+Customer: 17
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 3 ticks. 
+Customer: 18
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 0 ticks. 
+********* Tick 37 *********
+Queue 1
+Empty
+
+Queue 2
+Customer: 17
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 4 ticks. 
+Customer: 18
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 1 ticks. 
+********* Tick 38 *********
+Queue 1
+Empty
+
+Queue 2
+Customer: 17
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 5 ticks. 
+Customer: 18
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 2 ticks. 
+********* Tick 39 *********
+Tick 39: Server 2 ends service on customer 14
+Tick 39: Server 2 starts service on customer 17
+Customer 17 waited 6 ticks to be serviced
+Queue 1
+Empty
+
+Queue 2
+Customer: 18
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 3 ticks. 
+Customer: 19
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 0 ticks. 
+********* Tick 40 *********
+Queue 1
+Empty
+
+Queue 2
+Customer: 18
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 4 ticks. 
+Customer: 19
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 1 ticks. 
+********* Tick 41 *********
+Tick 41: Server 1 ends service on customer 16
+Queue 1
+Empty
+
+Queue 2
+Customer: 18
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 5 ticks. 
+Customer: 19
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 2 ticks. 
+********* Tick 42 *********
+Queue 1
+Empty
+
+Queue 2
+Customer: 18
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 6 ticks. 
+Customer: 19
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 3 ticks. 
+********* Tick 43 *********
+Tick 43: Server 2 ends service on customer 17
+Tick 43: Server 2 starts service on customer 18
+Customer 18 waited 7 ticks to be serviced
+Queue 1
+Empty
+
+Queue 2
+Customer: 19
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 4 ticks. 
+********* Tick 44 *********
+Queue 1
+Empty
+
+Queue 2
+Customer: 19
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 5 ticks. 
+********* Tick 45 *********
+Tick 45: Server 2 ends service on customer 18
+Tick 45: Server 2 starts service on customer 19
+Customer 19 waited 6 ticks to be serviced
+Queue 1
+Empty
+
+Queue 2
+Customer: 20
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 0 ticks. 
+********* Tick 46 *********
+Queue 1
+Empty
+
+Queue 2
+Customer: 20
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 1 ticks. 
+********* Tick 47 *********
+Queue 1
+Empty
+
+Queue 2
+Customer: 20
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 2 ticks. 
+Customer: 21
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 0 ticks. 
+********* Tick 48 *********
+Tick 48: Server 1 starts service on customer 22
+Customer 22 waited 0 ticks to be serviced
+Queue 1
+Empty
+
+Queue 2
+Customer: 20
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 3 ticks. 
+Customer: 21
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 1 ticks. 
+********* Tick 49 *********
+Queue 1
+Customer: 23
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 0 ticks. 
+
+Queue 2
+Customer: 20
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 4 ticks. 
+Customer: 21
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 2 ticks. 
+********* Tick 50 *********
+Tick 50: Server 1 ends service on customer 22
+Tick 50: Server 1 starts service on customer 23
+Customer 23 waited 1 ticks to be serviced
+Queue 1
+Empty
+
+Queue 2
+Customer: 20
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 5 ticks. 
+Customer: 21
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 3 ticks. 
+Customer: 24
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 0 ticks. 
+********* Tick 51 *********
+Tick 51: Server 2 ends service on customer 19
+Tick 51: Server 2 starts service on customer 20
+Customer 20 waited 6 ticks to be serviced
+Queue 1
+Empty
+
+Queue 2
+Customer: 21
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 4 ticks. 
+Customer: 24
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 1 ticks. 
+Customer: 25
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 0 ticks. 
+********* Tick 52 *********
+Queue 1
+Empty
+
+Queue 2
+Customer: 21
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 5 ticks. 
+Customer: 24
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 2 ticks. 
+Customer: 25
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 1 ticks. 
+Customer: 26
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 0 ticks. 
+********* Tick 53 *********
+Queue 1
+Empty
+
+Queue 2
+Customer: 21
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 6 ticks. 
+Customer: 24
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 3 ticks. 
+Customer: 25
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 2 ticks. 
+Customer: 26
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 1 ticks. 
+********* Tick 54 *********
+Customer 27 switched queues
+Queue 1
+Customer: 27
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 0 ticks. 
+
+Queue 2
+Customer: 21
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 7 ticks. 
+Customer: 24
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 4 ticks. 
+Customer: 25
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 3 ticks. 
+Customer: 26
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 2 ticks. 
+Customer: 27
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 0 ticks. 
+********* Tick 55 *********
+Tick 55: Server 1 ends service on customer 23
+Tick 55: Server 2 ends service on customer 20
+Customer 27 would have waited 2 ticks to be serviced if they had not switched queues
+Tick 55: Server 2 starts service on customer 21
+Customer 21 waited 8 ticks to be serviced
+Queue 1
+Empty
+
+Queue 2
+Customer: 24
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 5 ticks. 
+Customer: 25
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 4 ticks. 
+Customer: 26
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 3 ticks. 
+Customer: 27
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 2 ticks. 
+********* Tick 56 *********
+Customer 28 switched queues
+Customer 28 would have waited 0 ticks to be serviced if they had not switched queues
+Queue 1
+Empty
+
+Queue 2
+Customer: 24
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 6 ticks. 
+Customer: 25
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 5 ticks. 
+Customer: 26
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 4 ticks. 
+Customer: 27
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 3 ticks. 
+Customer: 28
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 0 ticks. 
+********* Tick 57 *********
+Queue 1
+Empty
+
+Queue 2
+Customer: 24
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 7 ticks. 
+Customer: 25
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 6 ticks. 
+Customer: 26
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 5 ticks. 
+Customer: 27
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 4 ticks. 
+Customer: 28
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 1 ticks. 
+********* Tick 58 *********
+Queue 1
+Empty
+
+Queue 2
+Customer: 24
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 8 ticks. 
+Customer: 25
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 7 ticks. 
+Customer: 26
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 6 ticks. 
+Customer: 27
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 5 ticks. 
+Customer: 28
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 2 ticks. 
+********* Tick 59 *********
+Queue 1
+Empty
+
+Queue 2
+Customer: 24
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 9 ticks. 
+Customer: 25
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 8 ticks. 
+Customer: 26
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 7 ticks. 
+Customer: 27
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 6 ticks. 
+Customer: 28
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 3 ticks. 
+********* Tick 60 *********
+Tick 60: Server 2 ends service on customer 21
+Tick 60: Server 2 starts service on customer 24
+Customer 24 waited 10 ticks to be serviced
+Queue 1
+Empty
+
+Queue 2
+Customer: 25
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 9 ticks. 
+Customer: 26
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 8 ticks. 
+Customer: 27
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 7 ticks. 
+Customer: 28
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 4 ticks. 
+********* Tick 61 *********
+Queue 1
+Empty
+
+Queue 2
+Customer: 25
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 10 ticks. 
+Customer: 26
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 9 ticks. 
+Customer: 27
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 8 ticks. 
+Customer: 28
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 5 ticks. 
+Customer: 29
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 0 ticks. 
+********* Tick 62 *********
+Queue 1
+Empty
+
+Queue 2
+Customer: 25
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 11 ticks. 
+Customer: 26
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 10 ticks. 
+Customer: 27
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 9 ticks. 
+Customer: 28
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 6 ticks. 
+Customer: 29
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 1 ticks. 
+********* Tick 63 *********
+Tick 63: Server 2 ends service on customer 24
+Tick 63: Server 2 starts service on customer 25
+Customer 25 waited 12 ticks to be serviced
+Queue 1
+Empty
+
+Queue 2
+Customer: 26
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 11 ticks. 
+Customer: 27
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 10 ticks. 
+Customer: 28
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 7 ticks. 
+Customer: 29
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 2 ticks. 
+********* Tick 64 *********
+Customer 30 switched queues
+Customer 30 would have waited 0 ticks to be serviced if they had not switched queues
+Queue 1
+Empty
+
+Queue 2
+Customer: 26
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 12 ticks. 
+Customer: 27
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 11 ticks. 
+Customer: 28
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 8 ticks. 
+Customer: 29
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 3 ticks. 
+Customer: 30
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 0 ticks. 
+********* Tick 65 *********
+Queue 1
+Empty
+
+Queue 2
+Customer: 26
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 13 ticks. 
+Customer: 27
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 12 ticks. 
+Customer: 28
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 9 ticks. 
+Customer: 29
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 4 ticks. 
+Customer: 30
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 1 ticks. 
+********* Tick 66 *********
+Customer 31 switched queues
+Customer 31 would have waited 0 ticks to be serviced if they had not switched queues
+Queue 1
+Empty
+
+Queue 2
+Customer: 26
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 14 ticks. 
+Customer: 27
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 13 ticks. 
+Customer: 28
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 10 ticks. 
+Customer: 29
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 5 ticks. 
+Customer: 30
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 2 ticks. 
+Customer: 31
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 0 ticks. 
+Customer: 32
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 0 ticks. 
+********* Tick 67 *********
+Tick 67: Server 2 ends service on customer 25
+Tick 67: Server 2 starts service on customer 26
+Customer 26 waited 15 ticks to be serviced
+Queue 1
+Empty
+
+Queue 2
+Customer: 27
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 14 ticks. 
+Customer: 28
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 11 ticks. 
+Customer: 29
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 6 ticks. 
+Customer: 30
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 3 ticks. 
+Customer: 31
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 1 ticks. 
+Customer: 32
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 1 ticks. 
+********* Tick 68 *********
+Queue 1
+Empty
+
+Queue 2
+Customer: 27
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 15 ticks. 
+Customer: 28
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 12 ticks. 
+Customer: 29
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 7 ticks. 
+Customer: 30
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 4 ticks. 
+Customer: 31
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 2 ticks. 
+Customer: 32
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 2 ticks. 
+********* Tick 69 *********
+Queue 1
+Empty
+
+Queue 2
+Customer: 27
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 16 ticks. 
+Customer: 28
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 13 ticks. 
+Customer: 29
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 8 ticks. 
+Customer: 30
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 5 ticks. 
+Customer: 31
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 3 ticks. 
+Customer: 32
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 3 ticks. 
+Customer: 33
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 0 ticks. 
+Customer: 34
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 0 ticks. 
+********* Tick 70 *********
+Queue 1
+Empty
+
+Queue 2
+Customer: 27
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 17 ticks. 
+Customer: 28
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 14 ticks. 
+Customer: 29
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 9 ticks. 
+Customer: 30
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 6 ticks. 
+Customer: 31
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 4 ticks. 
+Customer: 32
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 4 ticks. 
+Customer: 33
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 1 ticks. 
+Customer: 34
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 1 ticks. 
+Customer: 35
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 0 ticks. 
+********* Tick 71 *********
+Queue 1
+Empty
+
+Queue 2
+Customer: 27
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 18 ticks. 
+Customer: 28
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 15 ticks. 
+Customer: 29
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 10 ticks. 
+Customer: 30
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 7 ticks. 
+Customer: 31
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 5 ticks. 
+Customer: 32
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 5 ticks. 
+Customer: 33
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 2 ticks. 
+Customer: 34
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 2 ticks. 
+Customer: 35
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 1 ticks. 
+********* Tick 72 *********
+Tick 72: Server 2 ends service on customer 26
+Tick 72: Server 2 starts service on customer 27
+Customer 27 waited 19 ticks to be serviced
+Queue 1
+Empty
+
+Queue 2
+Customer: 28
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 16 ticks. 
+Customer: 29
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 11 ticks. 
+Customer: 30
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 8 ticks. 
+Customer: 31
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 6 ticks. 
+Customer: 32
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 6 ticks. 
+Customer: 33
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 3 ticks. 
+Customer: 34
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 3 ticks. 
+Customer: 35
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 2 ticks. 
+********* Tick 73 *********
+Queue 1
+Empty
+
+Queue 2
+Customer: 28
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 17 ticks. 
+Customer: 29
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 12 ticks. 
+Customer: 30
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 9 ticks. 
+Customer: 31
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 7 ticks. 
+Customer: 32
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 7 ticks. 
+Customer: 33
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 4 ticks. 
+Customer: 34
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 4 ticks. 
+Customer: 35
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 3 ticks. 
+Customer: 36
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 0 ticks. 
+********* Tick 74 *********
+Customer 37 switched queues
+Customer 37 would have waited 0 ticks to be serviced if they had not switched queues
+Queue 1
+Empty
+
+Queue 2
+Customer: 28
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 18 ticks. 
+Customer: 29
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 13 ticks. 
+Customer: 30
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 10 ticks. 
+Customer: 31
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 8 ticks. 
+Customer: 32
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 8 ticks. 
+Customer: 33
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 5 ticks. 
+Customer: 34
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 5 ticks. 
+Customer: 35
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 4 ticks. 
+Customer: 36
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 1 ticks. 
+Customer: 37
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 0 ticks. 
+********* Tick 75 *********
+Queue 1
+Empty
+
+Queue 2
+Customer: 28
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 19 ticks. 
+Customer: 29
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 14 ticks. 
+Customer: 30
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 11 ticks. 
+Customer: 31
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 9 ticks. 
+Customer: 32
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 9 ticks. 
+Customer: 33
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 6 ticks. 
+Customer: 34
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 6 ticks. 
+Customer: 35
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 5 ticks. 
+Customer: 36
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 2 ticks. 
+Customer: 37
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 1 ticks. 
+********* Tick 76 *********
+Tick 76: Server 2 ends service on customer 27
+Customer 38 switched queues
+Customer 38 would have waited 0 ticks to be serviced if they had not switched queues
+Tick 76: Server 2 starts service on customer 28
+Customer 28 waited 20 ticks to be serviced
+Queue 1
+Empty
+
+Queue 2
+Customer: 29
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 15 ticks. 
+Customer: 30
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 12 ticks. 
+Customer: 31
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 10 ticks. 
+Customer: 32
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 10 ticks. 
+Customer: 33
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 7 ticks. 
+Customer: 34
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 7 ticks. 
+Customer: 35
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 6 ticks. 
+Customer: 36
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 3 ticks. 
+Customer: 37
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 2 ticks. 
+Customer: 38
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 0 ticks. 
+********* Tick 77 *********
+Customer 39 switched queues
+Customer 39 would have waited 0 ticks to be serviced if they had not switched queues
+Queue 1
+Empty
+
+Queue 2
+Customer: 29
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 16 ticks. 
+Customer: 30
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 13 ticks. 
+Customer: 31
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 11 ticks. 
+Customer: 32
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 11 ticks. 
+Customer: 33
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 8 ticks. 
+Customer: 34
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 8 ticks. 
+Customer: 35
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 7 ticks. 
+Customer: 36
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 4 ticks. 
+Customer: 37
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 3 ticks. 
+Customer: 38
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 1 ticks. 
+Customer: 39
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 0 ticks. 
+Customer: 40
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 0 ticks. 
+********* Tick 78 *********
+Customer 41 switched queues
+Customer 41 would have waited 0 ticks to be serviced if they had not switched queues
+Queue 1
+Empty
+
+Queue 2
+Customer: 29
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 17 ticks. 
+Customer: 30
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 14 ticks. 
+Customer: 31
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 12 ticks. 
+Customer: 32
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 12 ticks. 
+Customer: 33
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 9 ticks. 
+Customer: 34
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 9 ticks. 
+Customer: 35
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 8 ticks. 
+Customer: 36
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 5 ticks. 
+Customer: 37
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 4 ticks. 
+Customer: 38
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 2 ticks. 
+Customer: 39
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 1 ticks. 
+Customer: 40
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 1 ticks. 
+Customer: 41
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 0 ticks. 
+********* Tick 79 *********
+Queue 1
+Empty
+
+Queue 2
+Customer: 29
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 18 ticks. 
+Customer: 30
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 15 ticks. 
+Customer: 31
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 13 ticks. 
+Customer: 32
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 13 ticks. 
+Customer: 33
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 10 ticks. 
+Customer: 34
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 10 ticks. 
+Customer: 35
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 9 ticks. 
+Customer: 36
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 6 ticks. 
+Customer: 37
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 5 ticks. 
+Customer: 38
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 3 ticks. 
+Customer: 39
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 2 ticks. 
+Customer: 40
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 2 ticks. 
+Customer: 41
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 1 ticks. 
+********* Tick 80 *********
+Queue 1
+Empty
+
+Queue 2
+Customer: 29
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 19 ticks. 
+Customer: 30
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 16 ticks. 
+Customer: 31
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 14 ticks. 
+Customer: 32
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 14 ticks. 
+Customer: 33
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 11 ticks. 
+Customer: 34
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 11 ticks. 
+Customer: 35
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 10 ticks. 
+Customer: 36
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 7 ticks. 
+Customer: 37
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 6 ticks. 
+Customer: 38
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 4 ticks. 
+Customer: 39
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 3 ticks. 
+Customer: 40
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 3 ticks. 
+Customer: 41
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 2 ticks. 
+********* Tick 81 *********
+Customer 42 switched queues
+Customer 42 would have waited 0 ticks to be serviced if they had not switched queues
+Queue 1
+Empty
+
+Queue 2
+Customer: 29
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 20 ticks. 
+Customer: 30
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 17 ticks. 
+Customer: 31
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 15 ticks. 
+Customer: 32
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 15 ticks. 
+Customer: 33
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 12 ticks. 
+Customer: 34
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 12 ticks. 
+Customer: 35
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 11 ticks. 
+Customer: 36
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 8 ticks. 
+Customer: 37
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 7 ticks. 
+Customer: 38
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 5 ticks. 
+Customer: 39
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 4 ticks. 
+Customer: 40
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 4 ticks. 
+Customer: 41
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 3 ticks. 
+Customer: 42
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 0 ticks. 
+********* Tick 82 *********
+Tick 82: Server 2 ends service on customer 28
+Tick 82: Server 2 starts service on customer 29
+Customer 29 waited 21 ticks to be serviced
+Queue 1
+Empty
+
+Queue 2
+Customer: 30
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 18 ticks. 
+Customer: 31
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 16 ticks. 
+Customer: 32
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 16 ticks. 
+Customer: 33
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 13 ticks. 
+Customer: 34
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 13 ticks. 
+Customer: 35
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 12 ticks. 
+Customer: 36
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 9 ticks. 
+Customer: 37
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 8 ticks. 
+Customer: 38
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 6 ticks. 
+Customer: 39
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 5 ticks. 
+Customer: 40
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 5 ticks. 
+Customer: 41
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 4 ticks. 
+Customer: 42
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 1 ticks. 
+********* Tick 83 *********
+Queue 1
+Empty
+
+Queue 2
+Customer: 30
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 19 ticks. 
+Customer: 31
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 17 ticks. 
+Customer: 32
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 17 ticks. 
+Customer: 33
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 14 ticks. 
+Customer: 34
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 14 ticks. 
+Customer: 35
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 13 ticks. 
+Customer: 36
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 10 ticks. 
+Customer: 37
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 9 ticks. 
+Customer: 38
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 7 ticks. 
+Customer: 39
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 6 ticks. 
+Customer: 40
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 6 ticks. 
+Customer: 41
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 5 ticks. 
+Customer: 42
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 2 ticks. 
+********* Tick 84 *********
+Tick 84: Server 2 ends service on customer 29
+Tick 84: Server 2 starts service on customer 30
+Customer 30 waited 20 ticks to be serviced
+Queue 1
+Empty
+
+Queue 2
+Customer: 31
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 18 ticks. 
+Customer: 32
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 18 ticks. 
+Customer: 33
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 15 ticks. 
+Customer: 34
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 15 ticks. 
+Customer: 35
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 14 ticks. 
+Customer: 36
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 11 ticks. 
+Customer: 37
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 10 ticks. 
+Customer: 38
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 8 ticks. 
+Customer: 39
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 7 ticks. 
+Customer: 40
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 7 ticks. 
+Customer: 41
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 6 ticks. 
+Customer: 42
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 3 ticks. 
+Customer: 43
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 0 ticks. 
+********* Tick 85 *********
+Queue 1
+Empty
+
+Queue 2
+Customer: 31
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 19 ticks. 
+Customer: 32
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 19 ticks. 
+Customer: 33
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 16 ticks. 
+Customer: 34
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 16 ticks. 
+Customer: 35
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 15 ticks. 
+Customer: 36
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 12 ticks. 
+Customer: 37
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 11 ticks. 
+Customer: 38
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 9 ticks. 
+Customer: 39
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 8 ticks. 
+Customer: 40
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 8 ticks. 
+Customer: 41
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 7 ticks. 
+Customer: 42
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 4 ticks. 
+Customer: 43
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 1 ticks. 
+Customer: 44
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 0 ticks. 
+********* Tick 86 *********
+Queue 1
+Empty
+
+Queue 2
+Customer: 31
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 20 ticks. 
+Customer: 32
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 20 ticks. 
+Customer: 33
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 17 ticks. 
+Customer: 34
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 17 ticks. 
+Customer: 35
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 16 ticks. 
+Customer: 36
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 13 ticks. 
+Customer: 37
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 12 ticks. 
+Customer: 38
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 10 ticks. 
+Customer: 39
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 9 ticks. 
+Customer: 40
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 9 ticks. 
+Customer: 41
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 8 ticks. 
+Customer: 42
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 5 ticks. 
+Customer: 43
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 2 ticks. 
+Customer: 44
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 1 ticks. 
+********* Tick 87 *********
+Queue 1
+Empty
+
+Queue 2
+Customer: 31
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 21 ticks. 
+Customer: 32
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 21 ticks. 
+Customer: 33
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 18 ticks. 
+Customer: 34
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 18 ticks. 
+Customer: 35
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 17 ticks. 
+Customer: 36
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 14 ticks. 
+Customer: 37
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 13 ticks. 
+Customer: 38
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 11 ticks. 
+Customer: 39
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 10 ticks. 
+Customer: 40
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 10 ticks. 
+Customer: 41
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 9 ticks. 
+Customer: 42
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 6 ticks. 
+Customer: 43
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 3 ticks. 
+Customer: 44
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 2 ticks. 
+********* Tick 88 *********
+Queue 1
+Empty
+
+Queue 2
+Customer: 31
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 22 ticks. 
+Customer: 32
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 22 ticks. 
+Customer: 33
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 19 ticks. 
+Customer: 34
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 19 ticks. 
+Customer: 35
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 18 ticks. 
+Customer: 36
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 15 ticks. 
+Customer: 37
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 14 ticks. 
+Customer: 38
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 12 ticks. 
+Customer: 39
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 11 ticks. 
+Customer: 40
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 11 ticks. 
+Customer: 41
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 10 ticks. 
+Customer: 42
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 7 ticks. 
+Customer: 43
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 4 ticks. 
+Customer: 44
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 3 ticks. 
+Customer: 45
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 0 ticks. 
+********* Tick 89 *********
+Tick 89: Server 2 ends service on customer 30
+Tick 89: Server 2 starts service on customer 31
+Customer 31 waited 23 ticks to be serviced
+Queue 1
+Empty
+
+Queue 2
+Customer: 32
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 23 ticks. 
+Customer: 33
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 20 ticks. 
+Customer: 34
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 20 ticks. 
+Customer: 35
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 19 ticks. 
+Customer: 36
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 16 ticks. 
+Customer: 37
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 15 ticks. 
+Customer: 38
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 13 ticks. 
+Customer: 39
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 12 ticks. 
+Customer: 40
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 12 ticks. 
+Customer: 41
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 11 ticks. 
+Customer: 42
+Starting Queue: 1
+Current Queue: 1
+Wait Time: 8 ticks. 
+Customer: 43
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 5 ticks. 
+Customer: 44
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 4 ticks. 
+Customer: 45
+Starting Queue: 2
+Current Queue: 2
+Wait Time: 1 ticks. 
