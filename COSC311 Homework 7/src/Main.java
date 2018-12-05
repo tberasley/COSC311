@@ -1,4 +1,5 @@
 // Tim Berasley - E01476290 - COSC 311 - Fall 2018 - hw1129
+// https://github.com/tberasley/COSC311/blob/master/COSC311%20Homework%207/src/Main.java
 public class Main {
 	public static void main(String[] args) {
 		int[][] pqs = {{1,2,3,4,5},{1,1,0,1,1},{1,5,1,2,5,6},
