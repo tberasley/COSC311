@@ -1,5 +1,6 @@
 // Tim Berasley - E01476290 - COSC 311 - Fall 2018 - hw1129
-// https://github.com/tberasley/COSC311/blob/master/COSC311%20Homework%207/src/Main.java
+// Source: https://github.com/tberasley/COSC311
+// 		   /blob/master/COSC311%20Homework%207/src/Main.java
 public class Main {
 	public static void main(String[] args) {
 		int[][] pqs = {{1,2,3,4,5},{1,1,0,1,1},{1,5,1,2,5,6},
@@ -18,10 +19,12 @@ public class Main {
 	}
 	public static int isPQ(int[] arr, int i) { 
 		if (i*2+2 > arr.length - 1) return 0; // true
-		if (arr[i] == 0 || arr[i*2+1] < arr[i] || arr[i*2+2] < arr[i])
+		if (arr[i*2+1] == 0) return i+1;
+		if (arr[i*2+2] == 0) return i+2;
+		if (arr[i] == 0 || (arr[i*2+1] < arr[i]) || (arr[i*2+2] < arr[i])  ) {
 			if (i == 0) return -1;
 			else return i;
-		else {
+		} else {
 			int k = isPQ(arr,i*2+1);
 			if (k != 0) return k;
 			k = isPQ(arr,i*2+2);
